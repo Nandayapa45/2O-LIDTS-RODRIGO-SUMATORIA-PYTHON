@@ -1,4 +1,4 @@
-
+#Elaborado por Rodrigo Nandayapa Medina 2°O LIDTS
 NUM=8
 nums= [0]*NUM
 total= 0
